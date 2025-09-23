@@ -1,9 +1,6 @@
+# Deep Learning from Scratch (DLFS)  
+밑바닥부터 시작하는 딥러닝 시리즈 학습 공간
 ---
-# Deep Learning from Scratch (DLFS)
-딥러닝을 **NumPy만으로 직접 구현**하며 핵심 개념과 구현 감각을 익히는 학습용 리포지토리입니다.
-목표: 자동미분 → 최적화 → MLP/CNN/간단한 Transformer까지 “바닥부터” 만들어 보기.
----
-
 ## 1) 폴더 구조 (최소형)
 
 ```
